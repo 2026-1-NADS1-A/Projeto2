@@ -1,3 +1,2 @@
-# Projeto2
-Projeto 2
-aaaa
+Matemática Discreta
+Variaveis
