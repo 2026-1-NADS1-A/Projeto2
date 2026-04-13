@@ -7,7 +7,7 @@
 * Clayton Santos Ferreira                26029419
 ---
 
-## Modelagem de Software e Arquitetura de Sistemas 2026_01
+## Modelagem de Software e Arquitetura de Sistemas
 Documentação do projeto:
 * [Visualizar em PDF (Primeira Entrega)](./Modelagem%20de%20Software%20e%20Arquitetura%20de%20Sistemas/PI%20-%20Primeira_Entrega.pdf)
 * [Baixar arquivo Word (Editável)](./Modelagem%20de%20Software%20e%20Arquitetura%20de%20Sistemas/PI%20-%20Primeira_Entrega_WORD.docx)
