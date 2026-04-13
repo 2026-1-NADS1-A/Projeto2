@@ -8,4 +8,5 @@
 ---
 
 ## Modelagem de Software e Arquitetura de Sistemas
-
+Arquivo da primeira entrega:
+[Clique aqui para visualizar o PDF]https://github.com/2026-1-NADS1-A/Projeto2/blob/main/Modelagem%20de%20Software%20e%20Arquitetura%20de%20Sistemas/PI%20-%20Primeira_Entrega.pdf
