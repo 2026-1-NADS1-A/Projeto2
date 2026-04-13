@@ -12,3 +12,4 @@ Documentação do projeto:
 * [Visualizar em PDF (Leitura Rápida)](./Modelagem%20de%20Software%20e%20Arquitetura%20de%20Sistemas/PI%20-%20Primeira_Entrega.pdf)
 * [Baixar arquivo Word (Editável)](./Modelagem%20de%20Software%20e%20Arquitetura%20de%20Sistemas/PI%20-%20Primeira_Entrega_WORD.docx)
 ## Matemática Discreta
+[Visualizar em PDF (Leitura Rápida)](https://github.com/2026-1-NADS1-A/Projeto2/blob/main/Matem%C3%A1tica%20Discreta/PI%20-%20Primeira_Entrega.pdf.pdf)
