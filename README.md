@@ -15,3 +15,5 @@ Documentação do projeto:
 * [Visualizar em PDF (Primeira Entrega)](https://github.com/2026-1-NADS1-A/Projeto2/blob/main/Matem%C3%A1tica%20Discreta/PI%20-%20Primeira_Entrega.pdf.pdf)
 ## Algoritmos e Lógica de Programação
 * [Visualizar em PDF (Primeira Entrega)](https://github.com/2026-1-NADS1-A/Projeto2/blob/main/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/PI%20-%20Primeira%20Entrega.pdf)
+## Redes de computadores
+* [Visualizar em PDF (Primeira Entrega)](https://github.com/2026-1-NADS1-A/Projeto2/blob/main/Redes%20de%20Computadores/PI%20-%20Primeira%20Entrega.pdf)
