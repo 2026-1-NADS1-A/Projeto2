@@ -21,10 +21,7 @@
   <img src="Imagens_GitHub/HOME%20PAGE%20EM%20PDF.png" alt="Home Page do Projeto" width="600">
 </p>
 
-[Escreva aqui de um a dois parágrafos sobre o que é seu projeto e o que ele faz. Exemplo: Meu projeto ajuda estudantes FECAP a configurarem seus githubs.]
-
-*May the force be with you!*
-
+Este projeto consiste em uma plataforma centralizada para a distribuição de jogos educativos, inspirada na interface e fluxo de navegação de serviços de streaming. O objetivo é facilitar o acesso de estudantes e desenvolvedores a recursos de jogos, misturando aprendizado com diversão
 ---
 
 ## 🛠 Estrutura de pastas
