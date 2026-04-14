@@ -65,6 +65,13 @@ Há também 4 pastas que seguem da seguinte forma:
 ### **Android:**
 
 Faça o Download do JOGO.apk no seu celular. Execute o APK e siga as instruções de seu telefone.
+### **Windows:**
+
+Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+
+```bash
+Coloque código do prompt de comando se for necessário
+
 
 ```bash
 Coloque código do prompt de comando se for necessário
