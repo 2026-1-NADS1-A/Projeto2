@@ -8,7 +8,7 @@
 
 ### [Nome do Grupo]
 
-**Integrantes:** [Goku Sayajin], [Saitama One], [Ikki de Fenix], [Yusuke Urameshi], [Roronoa Zoro]
+**Integrantes:** [André Seiji Shiroma], [Marcos Almeida Daloia], [Ikki de Fenix], [Fabio Augusto Camillo Rodrigues]
 
 **Professores Orientadores:** [Dr. Victor Von Doom], [Me. Saitama], [Dr. Strange], [Me. Yoda], [Dr. Gero]
 
