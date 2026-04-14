@@ -72,6 +72,7 @@ Coloque código do prompt de comando se for necessário
 ### **Windows:**
 
 Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-```bash
-Coloque código do prompt de comando se for necessário
-```
+
+### **HTML:**
+Não há instalação! Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+
