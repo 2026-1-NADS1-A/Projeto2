@@ -4,9 +4,10 @@
   <img src="https://github.com/user-attachments/assets/941e7631-c423-455a-9f5b-b9d9f8644594" alt="FECAP Logo" width="200">
 </p>
 
-## [Nome do Projeto]
+## [Aplicativo Desktop – Assinaturas de Jogos Educacionais (Messier)
+]
 
-### [Nome do Grupo]
+### [Grupo 2]
 
 **Integrantes:** André Seiji Shiroma, Marcos Almeida Daloia, Fabio Augusto Camillo Rodrigues
 
