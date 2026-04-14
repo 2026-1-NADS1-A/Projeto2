@@ -46,3 +46,25 @@ Esse repositório serve como um hub de entrega multiplataforma, com uma estrutur
 |  |--> Backend
 |  |--> Frontend
 | readme.md
+A pasta raiz contem dois arquivos que devem ser alterados:
+
+**README.MD**: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+
+Há também 4 pastas que seguem da seguinte forma:
+
+**documentos**: Toda a documentação estará nesta pasta.
+
+**executáveis**: Binários e executáveis do projeto devem estar nesta pasta.
+
+**imagens**: Imagens do sistema
+
+**src**: Pasta que contém o código fonte.
+
+## 🛠 Instalação
+
+### **Android:**
+
+Faça o Download do JOGO.apk no seu celular. Execute o APK e siga as instruções de seu telefone.
+
+```bash
+Coloque código do prompt de comando se for necessário
