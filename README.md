@@ -15,7 +15,6 @@
 
 ---
 
-## Descrição
 
 <p align="center">
   <img src="Imagens_GitHub/HOME%20PAGE%20EM%20PDF.png" alt="Home Page do Projeto" width="600">
