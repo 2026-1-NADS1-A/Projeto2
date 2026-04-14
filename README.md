@@ -68,3 +68,7 @@ Faça o Download do JOGO.apk no seu celular. Execute o APK e siga as instruçõe
 
 ```bash
 Coloque código do prompt de comando se for necessário
+```
+### **Windows:**
+
+Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
