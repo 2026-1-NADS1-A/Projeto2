@@ -4,7 +4,7 @@
   <img src="Imagens_GitHub/Fecap%20Logo.png" alt="Logo FECAP" width="200">
 </p>
 
-## [Aplicativo Desktop – Assinaturas de Jogos Educacionais (Messier)
+## Aplicativo Desktop – Assinaturas de Jogos Educacionais (Messier)
 
 
 ### [Grupo 2]
