@@ -1,21 +1,45 @@
-# Projeto Interdisciplinar – Sistema de Assinaturas de Jogos Educacionais
+# FECAP - Fundação de Comércio Álvares Penteado
 
-## Integrantes
-* André Seiji Shiroma                    26029347
-* Marcos Almeida Daloia                  25027861
-* Fabio Augusto Camillo Rodrigues        26029390
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/941e7631-c423-455a-9f5b-b9d9f8644594" alt="FECAP Logo" width="200">
+</p>
+
+## [Nome do Projeto]
+
+### [Nome do Grupo]
+
+**Integrantes:** [Goku Sayajin], [Saitama One], [Ikki de Fenix], [Yusuke Urameshi], [Roronoa Zoro]
+
+**Professores Orientadores:** [Dr. Victor Von Doom], [Me. Saitama], [Dr. Strange], [Me. Yoda], [Dr. Gero]
+
 ---
 
-## Modelagem de Software e Arquitetura de Sistemas
-Documentação do projeto:
-* [Visualizar em PDF (Primeira Entrega)](./Modelagem%20de%20Software%20e%20Arquitetura%20de%20Sistemas/PI%20-%20Primeira_Entrega.pdf)
-* [Baixar arquivo Word (Editável)](./Modelagem%20de%20Software%20e%20Arquitetura%20de%20Sistemas/PI%20-%20Primeira_Entrega_WORD.docx)
-## Matemática Discreta
-Documentação do projeto:
-* [Visualizar em PDF (Primeira Entrega)](https://github.com/2026-1-NADS1-A/Projeto2/blob/main/Matem%C3%A1tica%20Discreta/PI%20-%20Primeira_Entrega.pdf.pdf)
-## Algoritmos e Lógica de Programação
-Documentação do projeto:
-* [Visualizar em PDF (Primeira Entrega)](https://github.com/2026-1-NADS1-A/Projeto2/blob/main/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/PI%20-%20Primeira%20Entrega.pdf)
-## Redes de computadores
-Documentação do projeto:
-* [Visualizar em PDF (Primeira Entrega)](https://github.com/2026-1-NADS1-A/Projeto2/blob/main/Redes%20de%20Computadores/PI%20-%20Primeira%20Entrega.pdf)
+## Descrição
+
+<p align="center">
+  <img src="[LINK_DA_SUA_IMAGEM_AQUI]" alt="Banner do Projeto">
+</p>
+
+[Escreva aqui de um a dois parágrafos sobre o que é seu projeto e o que ele faz. Exemplo: Meu projeto ajuda estudantes FECAP a configurarem seus githubs.]
+
+*May the force be with you!*
+
+---
+
+## 🛠 Estrutura de pastas
+
+```text
+- Raiz
+|
+|--> documentos
+|  |--> antigos
+|  | Documentação.docx
+|--> executáveis
+|  |--> windows
+|  |--> android
+|  |--> HTML
+|--> imagens
+|--> src
+|  |--> Backend
+|  |--> Frontend
+| readme.md
