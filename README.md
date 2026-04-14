@@ -10,7 +10,7 @@
 
 **Integrantes:** André Seiji Shiroma, Marcos Almeida Daloia, Fabio Augusto Camillo Rodrigues
 
-**Professores Orientadores:** [Dr. Victor Von Doom], [Me. Saitama], [Dr. Strange], [Me. Yoda], [Dr. Gero]
+**Professores Orientadores:** Dra. Lucy Mari Tabuti, Ronaldo Araujo Pinto, Renata Muniz do Nascimento, Aimar Martins Lopes, Eduardo Savino
 
 ---
 
