@@ -76,3 +76,17 @@ Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executá
 ### **HTML:**
 Não há instalação! Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
+## 💻 Configuração para Desenvolvimento
+
+Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+
+Para abrir este projeto você necessita das seguintes ferramentas:
+
+-[GODOT](https://godotengine.org/)
+
+```bash
+make install
+npm test
+Coloque código do prompt de comando se for necessário
+```
+
