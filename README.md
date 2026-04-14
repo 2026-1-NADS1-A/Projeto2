@@ -1,7 +1,8 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/941e7631-c423-455a-9f5b-b9d9f8644594](https://semead.com.br/22/home/logo-fecap-1/)" alt="FECAP Logo" width="200">
+  <img src="<img width="200" height="180" alt="logo-fecap-1" src="https://github.com/user-attachments/assets/53a6a30a-b2be-4218-b9c8-1c0ac4979b44" />
+>
 </p>
 
 ## [Aplicativo Desktop – Assinaturas de Jogos Educacionais (Messier)
