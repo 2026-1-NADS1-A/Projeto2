@@ -8,7 +8,7 @@
 
 ### [Nome do Grupo]
 
-**Integrantes:** [André Seiji Shiroma], [Marcos Almeida Daloia], [Ikki de Fenix], [Fabio Augusto Camillo Rodrigues]
+**Integrantes:** André Seiji Shiroma, Marcos Almeida Daloia, Fabio Augusto Camillo Rodrigues
 
 **Professores Orientadores:** [Dr. Victor Von Doom], [Me. Saitama], [Dr. Strange], [Me. Yoda], [Dr. Gero]
 
