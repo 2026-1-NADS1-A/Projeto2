@@ -7,7 +7,7 @@
 ## Aplicativo Desktop – Assinaturas de Jogos Educacionais (Messier)
 
 
-### [Grupo 2]
+### (Grupo 2)
 
 **Integrantes:** André Seiji Shiroma, Marcos Almeida Daloia, Fabio Augusto Camillo Rodrigues
 
