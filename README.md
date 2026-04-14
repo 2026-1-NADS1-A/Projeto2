@@ -5,7 +5,7 @@
 </p>
 
 ## [Aplicativo Desktop – Assinaturas de Jogos Educacionais (Messier)
-]
+
 
 ### [Grupo 2]
 
