@@ -27,7 +27,6 @@ O projeto tem como objetivo principal o desenvolvimento de uma plataforma centra
 Esse repositório serve como um hub de entrega multiplataforma, com uma estrutura de pastas organizada e uma documentação técnica rigorosa, a plataforma garante que tanto desenvolvedores quanto usuários finais consigam baixar, instalar e rodar os jogos de forma eficiente, promovendo a democratização do acesso a ferramentas dentro do ambiente acadêmico da FECAP.
 
 ---
----
 
 ## 🛠 Estrutura de pastas
 
@@ -46,6 +45,7 @@ Esse repositório serve como um hub de entrega multiplataforma, com uma estrutur
 |  |--> Backend
 |  |--> Frontend
 | readme.md
+```
 A pasta raiz contem dois arquivos que devem ser alterados:
 
 **README.MD**: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
