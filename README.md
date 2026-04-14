@@ -18,7 +18,7 @@
 ## Descrição
 
 <p align="center">
-  <img src="[LINK_DA_SUA_IMAGEM_AQUI]" alt="Banner do Projeto">
+  <img src="Imagens_GitHub/HOME%20PAGE%20EM%20PDF.png" alt="Home Page do Projeto" width="600">
 </p>
 
 [Escreva aqui de um a dois parágrafos sobre o que é seu projeto e o que ele faz. Exemplo: Meu projeto ajuda estudantes FECAP a configurarem seus githubs.]
