@@ -102,7 +102,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-<a href="https://github.com/2026-1-NADS1-A/Projeto2">Projeto</a> © 2026 by <a href="https://github.com/2026-1-NADS1-A/Projeto2">Aluno 1: André Seiji Shiroma, aluno 2: Marcos Daloia</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/2026-1-NADS1-A/Projeto2">MessierApp</a> © 2026 by <a href="https://github.com/2026-1-NADS1-A/Projeto2">Aluno 1: André Seiji Shiroma, Aluno 2: Marcos Almeida Daloia, Aluno 3: Fabio Camillo Augusto Rodrigues, FECAP</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
