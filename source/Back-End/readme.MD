@@ -15,6 +15,6 @@ Siga o passo a passo abaixo para rodar o aplicativo na sua máquina:
 2. Clique com o **botão direito** sobre o arquivo `.zip` e selecione **Extrair tudo**.
 3. O Windows irá perguntar onde essa pasta deve ser extraída
 4. Depois de extraído o arquivo em zip a pasta já estará pronta para ser aberta editada.
-5. Dentro dessa pasta irá conter um arquivo do formato slnx chamado PrototipoMessier, clique nele para abrir o Visual Studio
+5. Dentro dessa pasta irá conter um arquivo do formato `slnx` chamado PrototipoMessier, clique nele para abrir o Visual Studio
 6. O Visual Studio será aberto e carregará todos os arquivos.
 
