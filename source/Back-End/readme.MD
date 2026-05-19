@@ -1,6 +1,5 @@
 # Plataforma de Jogos Educacionais (Protótipo Messier)
 
-Este é um aplicativo desktop estilo "Netflix", desenvolvido para centralizar e facilitar o acesso a diversos jogos educacionais de forma interativa.
 
 ## 🚀 Como baixar e testar o projeto
 
