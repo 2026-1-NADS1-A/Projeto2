@@ -5,10 +5,10 @@
 
 Siga o passo a passo abaixo para rodar o aplicativo na sua máquina:
 
-### 1. Baixando o código
+### 1. Baixando o arquivo
 1. Aqui na página do projeto no GitHub, clique no botão verde **`<> Code`**.
-2. No menu que abrir, clique em **`Download ZIP`**.
-3. O download do arquivo compactado começará automaticamente.
+2. .
+3.
 
 ### 2. Desbloqueando e Extraindo (⚠️ Passo Importante)
 Como o projeto foi baixado da internet, o Windows pode bloquear os arquivos por segurança, o que causa erros na hora de rodar. Para evitar isso:
