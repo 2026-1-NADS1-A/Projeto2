@@ -8,7 +8,7 @@ Siga o passo a passo abaixo para rodar o aplicativo na sua máquina:
 ### 1. Baixando o arquivo
 1. Aqui na página do projeto no GitHub, clique no PrototipoMessierAula (2).zip
 2. Na página do projeto vai ter um texto em azul chamado View raw, clique nele.
-3. O seu navegador irá baixar a versão em zip que é o app em uma compactada.
+3. O seu navegador irá baixar a versão em zip que é o app em uma versão compactada.
 
 ### 2.Extraindo (⚠️ Passo Importante)
 1. Vá até a pasta onde o arquivo `.zip` foi baixado.
